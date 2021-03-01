@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://condescending-lumiere-ea7f95.netlify.app/404notfound">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/LeilyD/404-Not-Found-">
       Solution
     </a>
     <span> | </span>
@@ -24,17 +24,14 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+  - [Built With](#HTML/CSS)
+
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot]()
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -47,9 +44,9 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 ## Features
 
@@ -60,14 +57,13 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [Kevin Powell CSS tutorials](https://www.bing.com/videos/search?q=kevin+powell+css+21+day+challenge&&view=detail&mid=721555B982BE537CB946721555B982BE537CB946&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dkevin%2Bpowell%2Bcss%2B21%2Bday%2Bchallenge%26FORM%3DHDRSC3)
+
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@your-username](https://github.com/LeilyD)
+- Twitter [@your-twitter](https://twitter.com/day_mrz)
